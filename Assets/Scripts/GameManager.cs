@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public void Awake()
     {
         input = new InputMaster();
+        input.Enable();
         input.GameManager.ReloadScene.performed += context => ReloadScene();
     }
 
