@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tank Weapons Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Tank Weapons Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 974149174d57d2e41b19db839e009e1f
+  m_SerializeEntries:
+  - m_GUID: 6665bb1ca6aeaa247a05e9e51289e3d0
+    m_Address: HeavyGun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6342996174289184815, guid: 6665bb1ca6aeaa247a05e9e51289e3d0, type: 3}
+    m_TargetAsset: {fileID: 6342996174289184815, guid: 6665bb1ca6aeaa247a05e9e51289e3d0, type: 3}
+  - m_GUID: 917e6629b82164047b8218a96c2d39a5
+    m_Address: Gun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4001435623749127279, guid: 917e6629b82164047b8218a96c2d39a5, type: 3}
+    m_TargetAsset: {fileID: 4001435623749127279, guid: 917e6629b82164047b8218a96c2d39a5, type: 3}
+  - m_GUID: cb5ef833a3a97c749a9048a52c554436
+    m_Address: MG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6556110022258262851, guid: cb5ef833a3a97c749a9048a52c554436, type: 3}
+    m_TargetAsset: {fileID: 6556110022258262851, guid: cb5ef833a3a97c749a9048a52c554436, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b145b6943f9a58646bdb853fed7bcc02, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0a6b25bb3254ec440aa702d9fd70895b, type: 2}
+    - {fileID: 11400000, guid: 5256bbda39670104aa76a244adb700b4, type: 2}
